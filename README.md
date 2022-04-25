@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ValP0591
 - 👀 I’m interested in Java Script / Angular / React / Node JS
-- 🌱 I’m currently learning JS / Python
+- 🌱 I’m currently learning JS / Python / C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  - valp0591@gmail.com
 
