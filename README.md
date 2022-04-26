@@ -9,9 +9,7 @@
 📫 How to reach me  - valp0591@gmail.com<br/>
 :trophy: [![codewars](https://www.codewars.com/users/ValP/badges/micro)](https://www.codewars.com/users/ValP) 
 
-<div id="header" align="right">
-  <img src="https://media.giphy.com/media/pVVKJJuEQre3219fLh/giphy.gif" />
-</div>
+
 
 
 <!---
