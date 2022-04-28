@@ -7,7 +7,7 @@
 🌱 I’m currently learning JS / Python / C++ <br/>
 💞️ I’m looking to collaborate on ...<br/>
 📫 How to reach me  - valp0591@gmail.com<br/>
-:trophy: [![codewars](https://www.codewars.com/users/ValP/badges/micro)](https://www.codewars.com/users/ValP) 
+:trophy: [![codewars](https://www.codewars.com/users/ValP/badges/micro?theme=light)](https://www.codewars.com/users/ValP) 
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
