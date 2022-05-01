@@ -3,11 +3,11 @@
 </div>
 
 👋 Hi, I’m @ValP0591 <br/>
-👀 I’m interested in Java Script / Angular / React / Node JS <br/>
-🌱 I’m currently learning JS / Python / C++ <br/>
-💞️ I’m looking to collaborate on ...<br/>
-📫 How to reach me  - valp0591@gmail.com<br/>
-:trophy: [![codewars](https://www.codewars.com/users/ValP/badges/micro?theme=light)](https://www.codewars.com/users/ValP) 
+👀 As a web developer I'm have to be interested in Java Script as well as some of fancy JS frameworks such as Angular / React. In order to call myself a fullstack dev I have to use Node.js on server side  <br/>
+🌱 I’m currently learning JS (need to stay focused on constant changes in ECMA) / C++ (that's my Everest to climb on) / Java (because why not?) <br/>
+💞️ I’m looking to collaborate on whatever is not boring<br/>
+📫 How to reach me - valp0591@gmail.com<br/>
+:trophy: How to teach me - [![codewars](https://www.codewars.com/users/ValP/badges/micro?theme=light)](https://www.codewars.com/users/ValP) 
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
