@@ -3,9 +3,9 @@
 </div>
 
 👋 Hi, I’m @ValP0591 <br/>
-👀 As a web developer I'm have to be interested in Java Script as well as some of fancy JS frameworks such as Angular / React. In order to call myself a fullstack dev I have to use Node.js on server side  <br/>
-🌱 I’m currently learning JS (need to stay focused on constant changes in ECMA) / C++ (that's my Everest to climb on) / Java (because why not?) <br/>
-💞️ I’m looking to collaborate on whatever is not boring<br/>
+👀 As a web developer I've to be interested in Java Script as well as some of fancy JS frameworks such as Angular / React.   <br/>
+🌱 I’m currently learning JS (need to stay focused on constant changes in ECMA) / C++ (that's my Everest to climb on) / Java (why not?) <br/>
+💞️ I’m looking to collaborate on whatever's not boring<br/>
 📫 How to reach me - valp0591@gmail.com<br/>
 :trophy: How to teach me - [![codewars](https://www.codewars.com/users/ValP/badges/micro?theme=light)](https://www.codewars.com/users/ValP) 
 
